@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=../schema.json
 tokens:
   - chainName: scrollsepolia
     standard: EvmHypNative
@@ -16,3 +15,4 @@ tokens:
     addressOrDenom: "0x9Acaf3351e0bD75833193fDDE3ce91b875d497eD"
     connections:
       - token: ethereum|scrollsepolia|0x28240F38B6B44a042399BBCAce6546D70c3E3118
+
